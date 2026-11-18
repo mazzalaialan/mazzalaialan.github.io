@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ar.vikarg.survtools",
+      "sha256_cert_fingerprints": [
+        "B8:A1:73:13:81:A8:62:FF:82:A7:59:55:D8:82:AC:FB:EF:00:99:3C:AC:66:C3:F4:4E:60:C5:62:36:39:B0:22"
+      ]
+    }
+  }
+]
